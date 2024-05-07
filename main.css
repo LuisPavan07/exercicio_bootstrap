@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: "Gidugu", sans-serif;
+    font-size: 80px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.form, button {
+    width: 300px;
+}
+
+.form {
+    margin-bottom: 10px;
+}
